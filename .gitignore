@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Runtime logs
+logs/
+*.log
+*.out
+
+# Generated downstream artifacts
+downstream/run/
+
+# OS files
+.DS_Store
+Thumbs.db
